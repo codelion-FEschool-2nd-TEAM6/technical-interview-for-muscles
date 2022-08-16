@@ -11,5 +11,5 @@
 - 다희: CORS
 - 희진: RESTful 이 뭔가요? REST API 랑 연관지어서.
 - 태희: SSR, CSR
-- 지훈: HTTP, HTTPS 
+- 지훈: <a href='https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/HTTP-HTTPS.md'>HTTP, HTTPS</a> 
 - 홍렬: 쿠키와 세션의 차이점
