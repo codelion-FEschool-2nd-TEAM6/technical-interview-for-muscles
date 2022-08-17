@@ -1,6 +1,6 @@
 # 프론트엔드 기술 면접 스터디
 
-## ✨ 진행 방식
+## 진행 방식
 
 1. 시행: 매 주 금요일 게더타운 오전 10시
 2. 규칙
@@ -11,10 +11,10 @@
 
 <br>
  
-## 👷🏻‍♀️ 파트 분배
+## 파트 분배
 ### 8월 셋째주
 - 다희: CORS
 - 희진: RESTful 이 뭔가요? REST API 랑 연관지어서.
-- 태희: <a href = "">SCR vs CSR</a>
+- 태희: <a href = "https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/CS/CSR%20vs%20SSR.md">SCR vs CSR</a>
 - 지훈: <a href='https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/HTTP-HTTPS.md'>HTTP, HTTPS</a>
 - 홍렬: 쿠키와 세션의 차이점
