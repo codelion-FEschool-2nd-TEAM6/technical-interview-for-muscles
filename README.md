@@ -17,4 +17,4 @@
 - 희진: RESTful 이 뭔가요? REST API 랑 연관지어서.
 - 태희: <a href = "https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/CS/CSR%20vs%20SSR.md">SCR vs CSR</a>
 - 지훈: <a href='https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/HTTP-HTTPS.md'>HTTP, HTTPS</a>
-- 홍렬: 쿠키와 세션의 차이점
+- 홍렬: <a href = https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/CS/%EC%BF%A0%ED%82%A4%EC%99%80%EC%84%B8%EC%85%98.md>쿠키와세션의차이점</a>
