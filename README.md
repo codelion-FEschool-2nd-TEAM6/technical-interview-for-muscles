@@ -22,4 +22,4 @@
 ### 8월 넷째주
 - 희진: 리액트의 라이프 사이클에 대해 
 - 지훈 : 객체지향 프로그래밍이란?
-- 태희: CSS에서 display 속성과 특징 
+- 태희: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/CSS/display.md">CSS display 속성과 특징 </a>
