@@ -23,4 +23,4 @@
 - 희진: <a href='https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/React/%EB%A6%AC%EC%95%A1%ED%8A%B8_%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4.md'>리액트의 라이프 사이클에 대해</a> 
 - 지훈 : <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/%EB%B0%A9%EB%B2%95%EB%A1%A0/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md">객체지향 프로그래밍이란?</a>
 - 태희: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/CSS/display.md">CSS display 속성과 특징 </a>
-- 홍렬 : <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/CS/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C%EB%9E%80%3F.md"></a>
+- 홍렬 : <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/CS/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C%EB%9E%80%3F.md">교착상태란?</a>
