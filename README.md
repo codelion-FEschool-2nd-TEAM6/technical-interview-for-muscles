@@ -25,7 +25,7 @@
 - 태희: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/CSS/display.md">CSS display 속성과 특징 </a>
 - 홍렬 : <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/CS/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C%EB%9E%80%3F.md">교착상태란?</a>
 
-### 8월 넷째주
+### 9월 째주
 - 태희: 직렬화
 - 지훈: 클로저
 - 희진: 캐시
