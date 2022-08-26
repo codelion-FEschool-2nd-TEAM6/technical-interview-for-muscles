@@ -24,3 +24,9 @@
 - 지훈 : <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/%EB%B0%A9%EB%B2%95%EB%A1%A0/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md">객체지향 프로그래밍이란?</a>
 - 태희: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/CSS/display.md">CSS display 속성과 특징 </a>
 - 홍렬 : <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/CS/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C%EB%9E%80%3F.md">교착상태란?</a>
+
+### 8월 넷째주
+태희: 직렬화
+지훈: 클로저
+희진: 캐시
+홍렬: MVC
