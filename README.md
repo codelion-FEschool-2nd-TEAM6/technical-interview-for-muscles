@@ -26,7 +26,7 @@
 - 홍렬 : <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/CS/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C%EB%9E%80%3F.md">교착상태란?</a>
 
 ### 9월 째주
-- 태희: 직렬화
+- 태희: <a>직렬화</a>
 - 지훈: 클로저
 - 희진: 캐시
 - 홍렬: MVC
