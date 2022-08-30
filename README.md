@@ -28,5 +28,5 @@
 ### 9월 째주
 - 태희: <a href="#">직렬화</a>
 - 지훈: 클로저
-- 희진: 캐시
+- 희진: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/Web/Web-Cache.md">캐시</a>
 - 홍렬: MVC
