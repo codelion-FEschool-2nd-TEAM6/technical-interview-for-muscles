@@ -26,7 +26,7 @@ console.log(outer2()) // 3
 
 ### 전역
 
-변수 a는 outer함수를 호출하기 직전에는 outer변수에만 함수가 담겨 있는 상태이며.
+변수 a는 outer함수를 호출하기 직전에는 outer변수에만 함수가 담겨 있는 상태이며,
 
 outer2는 outer함수의 실행이 종료된 시점이 되어야 값이 할당된다(undefined상태)
 
