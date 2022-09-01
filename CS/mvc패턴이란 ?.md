@@ -35,3 +35,5 @@ https://blog.kakaocdn.net/dn/bGZKd4/btrleqFoykC/kXkFFucLJdHJ4hNvfcmav0/img.png
 - View - 정보를 화면으로 보여주는 역할이다.
 
 - Controller - 사용자의 입력 처리와 흐름 제어 담당. 화면과 Model과 View를 연결시켜주는 역할이다.
+
+참고 사이트 : https://cocoon1787.tistory.com/733
