@@ -10,8 +10,6 @@
 
 ## 클로저 예시
 
-console.log 대신 return, 함수 호출 대신 return 사용
-
 ```jsx
 var outer = function () {
   var a = 1;
