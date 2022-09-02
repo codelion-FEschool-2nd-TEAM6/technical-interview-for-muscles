@@ -37,3 +37,24 @@ https://blog.kakaocdn.net/dn/bGZKd4/btrleqFoykC/kXkFFucLJdHJ4hNvfcmav0/img.png
 - Controller - 사용자의 입력 처리와 흐름 제어 담당. 화면과 Model과 View를 연결시켜주는 역할이다.
 
 참고 사이트 : https://cocoon1787.tistory.com/733
+
+## MVC는 유지보수가 편해지는 코드 구성 방식이다. ( MVC는 유지보수때문에 생긴 핵심이유이다. )
+
+<img width="735" alt="스크린샷 2022-09-02 오후 8 55 04" src="https://user-images.githubusercontent.com/102474207/188137599-4a6a2a48-cf4a-4992-9d94-a5491da422c5.png" width="400">
+
+- 모델과 뷰와 컨트롤러의 역활이 중요하다.
+- - 모델 : 데이터와 관련된 일을 하는곳이다.  (데이터와 관련된 부분)
+- - 컨트롤러 : 모델과 뷰의 중개자역활을 한다. (모델과 뷰를 이어주는 부분)
+- - 뷰 : 사용자한테 보여지는 부분을 담당한다. (사용자한테 보여지는 부분)
+
+## MVC를 지키면서 코딩하는 방법
+1. Model은 Controller와 View에 의존하지 않아야 한다.
+- Model 내부에 Controller 와 View에 관련된 코드가 있으면 안 된다.
+2. View는 Model에만 의존해야 하고, Controller에는 의존하면 안 된다.
+- View 내부에 Model의 코드만 있을 수 있고, Controller의 코드가 있으면 안 된다.
+3. View가 Model로부터 데이터를 받을 때는, 사용자마다 다르게 보여주어야 하는 데이터에 대해서만 받아야 한다.
+4. Controller는 Model과 View에 의존해도 된다.
+- Controller 내부에는 Model과 View의 코드가 있을 수 있다.
+5. View가 Model로부터 데이터를 받을 때, 반드시 Controller에서 받아야 한다.
+
+참고영상 : https://youtu.be/ogaXW6KPc8I
