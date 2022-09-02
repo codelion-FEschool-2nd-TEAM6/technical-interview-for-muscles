@@ -25,8 +25,15 @@
 - 태희: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/CSS/display.md">CSS display 속성과 특징 </a>
 - 홍렬 : <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/CS/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C%EB%9E%80%3F.md">교착상태란?</a>
 
-### 9월 째주
+### 9월 첫째주
 - 태희: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/CS/%EC%A7%81%EB%A0%AC%ED%99%94.md">직렬화</a>
 - 지훈: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/JS/closure.md">클로저</a>
 - 희진: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/Web/Web-Cache.md">캐시</a>
 - 홍렬: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/CS/mvc%ED%8C%A8%ED%84%B4%EC%9D%B4%EB%9E%80%20%3F.md">mvc</a>
+
+### 9월 둘째주
+- 태희 : CDN
+- 지훈 : mermaid
+- 희진 : CI/CD
+- 홍렬 : 리액트 상태관리
+
