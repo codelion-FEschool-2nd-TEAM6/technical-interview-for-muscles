@@ -32,7 +32,7 @@
 - 홍렬: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/CS/mvc%ED%8C%A8%ED%84%B4%EC%9D%B4%EB%9E%80%20%3F.md">mvc</a>
 
 ### 9월 둘째주
-- 태희 : CDN
+- 태희 : <a href ="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/CDN.md">CDN</a>
 - 지훈 : mermaid
 - 희진 : <a href='https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/%EC%9D%B8%ED%94%84%EB%9D%BC/CI%EC%99%80CD.md'>CI/CD</a>
 - 홍렬 : 리액트 상태관리
