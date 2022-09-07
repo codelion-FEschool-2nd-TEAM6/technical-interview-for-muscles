@@ -34,6 +34,6 @@
 ### 9월 둘째주
 - 태희 : CDN
 - 지훈 : mermaid
-- 희진 : CI/CD
+- 희진 : <a href='https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/%EC%9D%B8%ED%94%84%EB%9D%BC/CI%EC%99%80CD.md'>CI/CD</a>
 - 홍렬 : 리액트 상태관리
 
