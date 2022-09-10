@@ -37,3 +37,5 @@
 - 희진 : <a href='https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/%EC%9D%B8%ED%94%84%EB%9D%BC/CI%EC%99%80CD.md'>CI/CD</a>
 - 홍렬 : <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/React/%EB%A6%AC%EC%95%A1%ED%8A%B8_%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC.md">리액트 상태관리</a>
 
+### 9월 셋째주
+
