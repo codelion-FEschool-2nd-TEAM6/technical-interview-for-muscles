@@ -32,10 +32,11 @@
 - 홍렬: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/CS/mvc%ED%8C%A8%ED%84%B4%EC%9D%B4%EB%9E%80%20%3F.md">mvc</a>
 
 ### 9월 둘째주
-- 태희 : <a href ="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/CDN.md">CDN</a>
-- 지훈 : <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/%EC%88%9C%EC%84%9C%EB%8F%84/mermaid.md">mermaid</a>
-- 희진 : <a href='https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/%EC%9D%B8%ED%94%84%EB%9D%BC/CI%EC%99%80CD.md'>CI/CD</a>
-- 홍렬 : <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/React/%EB%A6%AC%EC%95%A1%ED%8A%B8_%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC.md">리액트 상태관리</a>
+- 태희: <a href ="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/CDN.md">CDN</a>
+- 지훈: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/%EC%88%9C%EC%84%9C%EB%8F%84/mermaid.md">mermaid</a>
+- 희진: <a href='https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/%EC%9D%B8%ED%94%84%EB%9D%BC/CI%EC%99%80CD.md'>CI/CD</a>
+- 홍렬: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/React/%EB%A6%AC%EC%95%A1%ED%8A%B8_%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC.md">리액트 상태관리</a>
 
 ### 9월 셋째주
+- 태희: <a href="#">SEO</a>
 
