@@ -38,5 +38,5 @@
 - 홍렬: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/React/%EB%A6%AC%EC%95%A1%ED%8A%B8_%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC.md">리액트 상태관리</a>
 
 ### 9월 셋째주
-- 태희: <a href="#">SEO</a>
+- 태희: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/Web/SEO.md">SEO</a>
 
