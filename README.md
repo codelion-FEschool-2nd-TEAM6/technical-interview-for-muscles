@@ -39,4 +39,4 @@
 
 ### 9월 셋째주
 - 태희: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/Web/SEO.md">SEO</a>
-
+- 지훈 <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/history-api.md">history API</a>
