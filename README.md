@@ -20,23 +20,28 @@
 - 홍렬: <a href = https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/CS/%EC%BF%A0%ED%82%A4%EC%99%80%EC%84%B8%EC%85%98.md>쿠키와세션의차이점</a>
 
 ### 8월 넷째주
-- 희진: <a href='https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/React/%EB%A6%AC%EC%95%A1%ED%8A%B8_%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4.md'>리액트의 라이프 사이클에 대해</a> 
+
+- 희진: <a href='https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/React/%EB%A6%AC%EC%95%A1%ED%8A%B8_%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4.md'>리액트의 라이프 사이클에 대해</a>
 - 지훈 : <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/%EB%B0%A9%EB%B2%95%EB%A1%A0/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md">객체지향 프로그래밍이란?</a>
 - 태희: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/CSS/display.md">CSS display 속성과 특징 </a>
 - 홍렬 : <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/CS/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C%EB%9E%80%3F.md">교착상태란?</a>
 
 ### 9월 첫째주
+
 - 태희: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/CS/%EC%A7%81%EB%A0%AC%ED%99%94.md">직렬화</a>
 - 지훈: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/JS/closure.md">클로저</a>
 - 희진: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/Web/Web-Cache.md">캐시</a>
 - 홍렬: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/CS/mvc%ED%8C%A8%ED%84%B4%EC%9D%B4%EB%9E%80%20%3F.md">mvc</a>
 
 ### 9월 둘째주
+
 - 태희: <a href ="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/CDN.md">CDN</a>
 - 지훈: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/%EC%88%9C%EC%84%9C%EB%8F%84/mermaid.md">mermaid</a>
 - 희진: <a href='https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/%EC%9D%B8%ED%94%84%EB%9D%BC/CI%EC%99%80CD.md'>CI/CD</a>
 - 홍렬: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/React/%EB%A6%AC%EC%95%A1%ED%8A%B8_%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC.md">리액트 상태관리</a>
 
 ### 9월 셋째주
+
 - 태희: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/Web/SEO.md">SEO</a>
-- 지훈 <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/history-api.md">history API</a>
+- 지훈: <a href="https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/history-api.md">history API</a>
+- 희진: <a href='https://github.com/likelion-FEschool-TEAM6-muscles/technical-interview-for-muscles/blob/main/JS/webpack%EC%9B%B9%ED%8C%A9.md'>웹팩</a>
