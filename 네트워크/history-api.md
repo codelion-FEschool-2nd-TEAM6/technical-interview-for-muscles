@@ -119,3 +119,13 @@ http://127.0.0.1:5501/login
 `pushState`는 주소 목록에 새로운 주소를 추가합니다. 따라서  `/index.html`을 이전 주소로 두고 `/login` ,`/home` , `/profile` 을 차례로 추가한 것입니다. 이전의 주소가 남아 있기 때문에 뒤로가기를 통해 `/profile` →  `/home` → `/login` 으로 되돌아 갈 수 있습니다.
 
 하지만 `replaceState` 이전 주소를 없애고 바꿀 주소를 넣습니다. /index.html이라는 주소 기록을 지우고 `/login` ,`/home` , `/profile` 를 추가하는 것입니다. 따라서 `/profile` 에서 뒤로가기를 통해서 `/home` 이나 `/login` 에 접근할 수 없습니다.
+
+### 참고자료
+
+[history push와 replace의 차이](https://medium.com/w-bs-log/history-push%EC%99%80-replace%EC%9D%98-%EC%B0%A8%EC%9D%B4-ed5f2f7db7dc)
+
+[[TIL_개발일기_210317] history.push()와 history.replace()의 차이점](https://dolphinsarah.tistory.com/17)
+
+[[Next.js] Router.push와 Router.replace의 차이](https://soft91.tistory.com/97)
+
+[ZeroCho Blog](https://www.zerocho.com/category/HTML&DOM/post/599d2fb635814200189fe1a7)
